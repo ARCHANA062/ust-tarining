@@ -1,2 +1,2 @@
 "My new assignmnet" 
-Making edits throgh github
+Making edits through github
